@@ -1,4 +1,4 @@
-# Medical Shop WhatsApp Bot
+# Medical Shop WhatsApp Bot 🚀
 
 A WhatsApp bot for a medical shop. When a customer sends **HI**, they get a button to upload their prescription. Uploaded files are saved locally for your team to review.
 
